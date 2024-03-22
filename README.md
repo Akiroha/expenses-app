@@ -27,12 +27,6 @@ This React Native application is an expense app designed to help users track the
 - Fetches expenses made in the past week, inclusive
 - Stores data in app wide redux state
 
-## Installation
-
-1. Clone the repository.
-2. Install dependencies: `npm install`.
-3. Start the development server: `npm start` or `expo start`.
-
 ## Technologies Used
 
 - React Native
